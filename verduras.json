@@ -1,10 +1,5 @@
 [
     {
-        "codigo": 2,
-        "descripcion": "manzanas verdes",
-        "precio": 54
-    },
-    {
         "codigo": 3,
         "descripcion": "sandia",
         "precio": 31
