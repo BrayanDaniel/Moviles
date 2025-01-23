@@ -8,25 +8,5 @@
         "codigo": 3,
         "descripcion": "sandia",
         "precio": 31
-    },
-    {
-        "codigo": 0,
-        "descripcion": "hola",
-        "precio": 2
-    },
-    {
-        "codigo": 0,
-        "descripcion": "hola",
-        "precio": 2
-    },
-    {
-        "codigo": 0,
-        "descripcion": "hola2",
-        "precio": 2222
-    },
-    {
-        "codigo": 0,
-        "descripcion": "hola2",
-        "precio": 2222
     }
 ]
