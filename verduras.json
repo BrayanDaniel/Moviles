@@ -1,10 +1,5 @@
 [
     {
-        "codigo": 1,
-        "descripcion": "papa",
-        "precio": 12.33
-    },
-    {
         "codigo": 2,
         "descripcion": "manzanas",
         "precio": 54
