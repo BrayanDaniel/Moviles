@@ -23,5 +23,10 @@
         "codigo": 0,
         "descripcion": "hola2",
         "precio": 2222
+    },
+    {
+        "codigo": 0,
+        "descripcion": "hola2",
+        "precio": 2222
     }
 ]
